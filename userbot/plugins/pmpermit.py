@@ -241,7 +241,7 @@ if Var.PRIVATE_GROUP_ID is not None:
         chat_id = event.from_id
         USER_BOT_NO_WARN = (
             f"[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](tg://user?id={chat_id})\n\n"
-            "This is Auto generated Message from SurCat Security Service⚠️\n\n"
+            "This is Auto generated Message from teamnoway Security Service⚠️\n\n"
             f"Hi buddy my master [{DEFAULTUSER}](tg://user?id={SURID})❤️ haven't approved you yet. so ,"
             "Leave your name,reason and 10k$ and hopefully you'll get a reply within 2 light years🔥.\n\n"
             "⭕️**Send** `/start` ** so that my master can decide why you're here.**⭕️"
